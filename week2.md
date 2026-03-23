@@ -1,2 +1,1 @@
-# week2練習連結:https://colab.research.google.com/notebooks/intro.ipynb
-
+week2練習連結:https://colab.research.google.com/notebooks/intro.ipynb
